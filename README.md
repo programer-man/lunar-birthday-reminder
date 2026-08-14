@@ -50,6 +50,9 @@
 ### 1. 克隆仓库
 
 ```bash
+# GitHub
+git clone https://github.com/programer-man/lunar-birthday-reminder.git
+# Gitee
 git clone https://gitee.com/reagenrg/lunar-birthday-reminder.git
 cd lunar_birthday_reminder
 ```
